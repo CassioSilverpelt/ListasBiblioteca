@@ -3,7 +3,7 @@ package model;
 public class Lista<T> implements IntLista<T> {
 
 	No<T> primeiro;
-	
+	//batata
 	@Override
 	public boolean isEmpty() {
 		if (primeiro == null) {
